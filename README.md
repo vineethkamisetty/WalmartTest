@@ -23,6 +23,9 @@ Instructions :
   - Open the Project in Android Studio
   - Sync Project with Gradle Files
   - Run the application 
+  - Use Search Button to enter the product Name and submit it
+  - Search Results will appear on the screen
+  - Click on the image or Product Name to find recommended items for that particular item
 
 MainActivity
 [https://github.com/vineethkamisetty/WalmartTest/blob/master/MainActivity.png]
