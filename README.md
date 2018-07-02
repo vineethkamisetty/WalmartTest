@@ -23,3 +23,12 @@ Instructions :
   - Open the Project in Android Studio
   - Sync Project with Gradle Files
   - Run the application 
+
+MainActivity
+[https://github.com/vineethkamisetty/WalmartTest/blob/master/MainActivity.png]
+
+SearchActivity
+[https://github.com/vineethkamisetty/WalmartTest/blob/master/SearchResults.png]
+
+RecommendedActivity
+[https://github.com/vineethkamisetty/WalmartTest/blob/master/RecommendedItems.png]
