@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WalmartTest</string>
+    <string name="search">Search</string>
+    <string name="results_will_appear_here">Search Results will Appear Here</string>
+    <string name="itemname">itemName</string>
+    <string name="itemratings">itemRatings</string>
+    <string name="itemprice">itemPrice</string>
+    <string name="thumbnail_image">Thumbnail Image</string>
+    <string name="itemdescription">ItemDescription</string>
+    <string name="no_recommendation_items_found_for_the_selection_please_go_back_and_select_another_one_error_503">Error 503 : Service Unavailable. Please Try Again.</string>
+    <string name="service_unavailable">Service Unavailable. Please Try Again</string>
+    <string name="no_recommendation">No recommendations found for item. Please Try another or try later</string>
+</resources>
