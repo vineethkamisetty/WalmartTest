@@ -19,4 +19,7 @@ Files :
   - RecommendationAdapter.java
     - Adapter with RecyclerView for Recommended Activity
 
-            
+Instructions :
+  - Open the Project in Android Studio
+  - Sync Project with Gradle Files
+  - Run the application 
